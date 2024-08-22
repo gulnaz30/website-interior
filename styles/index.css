@@ -1,0 +1,42 @@
+body {
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:  400, 800;
+    font-style: normal;
+  }
+ 
+h1 {
+    font-family: Manrope;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    
+}
+
+.background-head {
+    width: 1150px;
+    height: 500px;
+    background-image: url('../resources/background-head.png');
+
+}
+
+.text-head {
+font-size: 20px;
+font-weight: 400;
+line-height: 27.32px;
+letter-spacing: -0.03em;
+text-align: left;
+object-position: center;
+color: #ffffff;
+width: 430px;
+height: 81px;
+top: 657px;
+left: 165px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+
